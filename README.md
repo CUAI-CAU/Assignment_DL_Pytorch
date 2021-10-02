@@ -4,9 +4,14 @@ Repo for submitting Deep Learning with PyTorch assignment.
 
 
 ## Deep Learning Zero To ALL : Pytorch
- - Github: https://github.com/deeplearningzerotoall/PyTorch
- - YouTube: http://bit.ly/2UVk3kn
- - Slide: http://bit.ly/2VrZcWM
+ - Official Github: https://github.com/deeplearningzerotoall/PyTorch
+ - Official YouTube: http://bit.ly/2UVk3kn
+ - Official Slide: http://bit.ly/2VrZcWM
+ 
+ ## Assignment
+|과제|설명|기한|
+|------|---|:---:|
+|**Part1. Machine Learning & PyTorch Basic** | [YouTube](https://www.youtube.com/playlist?list=PLQ28Nx3M4JrhkqBVIXg-i5_CVVoS1UzAv)에서 **Lec07**까지 수강한 뒤 [GitHub](https://github.com/CUAI-CAU/DeepLearning_PyTorch)의 자료 [[Lab01](https://github.com/CUAI-CAU/DeepLearning_PyTorch/blob/master/lab-01_tensor_manipulation.ipynb), [Lab04-1](https://github.com/CUAI-CAU/DeepLearning_PyTorch/blob/master/lab-04_1_multivariable_linear_regression.ipynb), [Lab05](https://github.com/CUAI-CAU/DeepLearning_PyTorch/blob/master/lab-05_logistic_classification.ipynb), [Lab06-1](https://github.com/CUAI-CAU/DeepLearning_PyTorch/blob/master/lab-06_1_softmax_classification.ipynb), [Lab07-1](https://github.com/CUAI-CAU/DeepLearning_PyTorch/blob/master/lab-07_1_tips.ipynb) ,[Lab07-2](https://github.com/CUAI-CAU/DeepLearning_PyTorch/blob/master/lab-07_2_mnist_introduction.ipynb)]을 실습한 후 현재 레포지토리의 [Lab01](/Lab01)~[Lab07](/Lab07) 각각의 디렉터리에 파일명 "**Lab00_이름**"으로 업로드하세요! |**21.10.12**|
 
 ## Index
 ### PART 1: Machine Learning & PyTorch Basic
