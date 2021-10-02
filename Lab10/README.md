@@ -1,6 +1,6 @@
 ## PART 3: Convolutional Neural Network
 
-## Assignment
+## Practice
 Lab 10-0: Convolution Neural Networkintro  
 Lab 10-1: Convolution  
 Lab 10-2: mnist cnn  

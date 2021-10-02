@@ -1,6 +1,6 @@
 ## PART 4: Recurrent Neural Network
 
-## Assignment
+## Practice
 Lab 11-0: RNN intro  
 Lab 11-1: RNN basics  
 Lab 11-2: RNN hihello and charseq  
